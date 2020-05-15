@@ -6,7 +6,7 @@ import AppReducer from "./AppReducer";
 */
 
 const initialState = {
-  transactions: [{ id: 1, text: "Flower", amount: -20 }],
+  transactions: [],
 };
 
 //  CreateContext
